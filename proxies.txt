@@ -1,3 +1,4 @@
+tg://proxy?server=155.212.220.215&port=443&secret=eefea66ea02f1b797077a9682870f120267275747562652e7275
 tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
 tg://proxy?server=138.124.54.8&port=443&secret=ee01b2361da6aba52bd179c5e7260410246f7a6f6e2e7275
 tg://proxy?server=ru.gotelega.click&port=443&secret=eef6fd3b2e6af4c284066f5a6e0b6d8bcc72752e676f74656c6567612e636c69636b
