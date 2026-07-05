@@ -1,3 +1,4 @@
+tg://proxy?server=01.kvn.nz&port=443&secret=eead5dc16fa3e2519682ea71ee70c963f273616e6b6561722e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=217.114.11.87&port=443&secret=eee773b310f080e6334663d7893f99a39d6f7a6f6e2e7275
