@@ -1,3 +1,4 @@
+https://t.me/proxy?server=xnet.its-work.ru&port=443&secret=ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d
 tg://proxy?server=159.194.196.176&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=159.194.239.60&port=443&secret=eee90bf4260006c42c51f77a4625097bd16f7a6f6e2e7275
