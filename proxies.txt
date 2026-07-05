@@ -1,8 +1,18 @@
+tg://proxy?server=159.194.196.176&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
+tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=159.194.239.60&port=443&secret=eee90bf4260006c42c51f77a4625097bd16f7a6f6e2e7275
+https://t.me/proxy?server=proxy.vepltnkv.ru&port=443&secret=eea70cdf629db6c8d3fe5a533612ae5e40636c6f7564666c6172652e636f6d
+tg://proxy?server=91.92.21.116&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
+tg://proxy?server=2.26.7.251&port=443&secret=ee9945c587716452618a218583a2d4aaeb73747265616d2e782d627573792e7275
+tg://proxy?server=somafan.iamstive.top&port=443&secret=ee631f2454a461ed2bd1c509cf9954cda8736f6d6166616e2e69616d73746976652e746f70
+https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
+https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
+https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
 tg://proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
 tg://proxy?server=ru.gotelega.click&port=443&secret=eef6fd3b2e6af4c284066f5a6e0b6d8bcc72752e676f74656c6567612e636c69636b
 tg://proxy?server=free.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=azamatx.ru&port=443&secret=ee1f2a9e2f72b01e9f39aae711ed6ea7c063646e2e79616e6465782e7275
+tg://proxy?server=test.nekonekon.com&port=8443&secret=ee9ec22ca53dcc1657a3cdbadbcacf2ec36e656b6f6e656b6f6e2e636f6d
 tg://proxy?server=176.100.39.183&port=443&secret=eecd799bb0dae359a54229780c656476eb7072696d6f72652e7275
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4d8b62f903
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
@@ -26,5 +36,3 @@ tg://proxy?server=mirror.rkn.digital&port=443&secret=eec45700cddd494eb8a993de002
 https://t.me/proxy?server=rnk.hopto.org&port=9443&secret=ee30d331a3d09c462079cfcfc541ef8684706574726f766963682e7275
 tg://proxy?server=secure.rkn.digital&port=443&secret=ee5b47ed28e75307f94f85e810f149a5956d6972726f722e747275656e6574776f726b2e7275
 tg://proxy?server=secure.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=go.norkn.top&port=443&secret=ee55be84478776a1b1492a8d164c5695c46d6972726f722e74696d657765622e7275
-tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
