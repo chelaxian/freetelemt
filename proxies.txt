@@ -1,9 +1,7 @@
+tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
+tg://proxy?server=217.114.11.87&port=443&secret=eee773b310f080e6334663d7893f99a39d6f7a6f6e2e7275
 https://t.me/proxy?server=admin.willdomarket.com&port=443&secret=eeade38833e5bb815a530e394895b634e461646d696e2e77696c6c646f6d61726b65742e636f6d
 https://t.me/proxy?server=power.nolags.pw&port=443&secret=ddc44116b4d7fbd81392e8978089eec7f4
-https://t.me/proxy?server=62.113.108.19&port=443&secret=ee6e38ba58cb705dc7074cb8203849bb786f7a6f6e2e7275
-https://t.me/proxy?server=xnet.its-work.ru&port=443&secret=ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d
-tg://proxy?server=159.194.196.176&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
-tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 https://t.me/proxy?server=proxy.vepltnkv.ru&port=443&secret=eea70cdf629db6c8d3fe5a533612ae5e40636c6f7564666c6172652e636f6d
 tg://proxy?server=91.92.21.116&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=2.26.7.251&port=443&secret=ee9945c587716452618a218583a2d4aaeb73747265616d2e782d627573792e7275
@@ -31,7 +29,6 @@ tg://proxy?server=th.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af865
 https://t.me/proxy?server=hcaptcha.us.kg&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef268636170746368612e75732e6b67
 https://t.me/proxy?server=hcaptcha.us.kg&port=443&secret=ddb9368cadbd8a756073e33cd2598dbef2
 tg://proxy?server=proxy-nl.littleusername.ru&port=1536&secret=ee5d992515db0d46e76aa7a7947a26235d77696c64626572726965732e7275
-https://t.me/proxy?server=login.willdomarket.com&port=443&secret=eeade38833e5bb815a530e394895b634e46c6f67696e2e77696c6c646f6d61726b65742e636f6d
 https://t.me/proxy?server=cdn.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=p1.cryptokazancev.ru&port=443&secret=eec3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f879612e7275
 tg://proxy?server=cdn.norkn.top&port=443&secret=ee952d13e57c4bb39934cee4f141c92a9f6d6972726f722e646f636b65722e7275
