@@ -1,7 +1,7 @@
+https://t.me/proxy?server=62.113.108.19&port=443&secret=ee6e38ba58cb705dc7074cb8203849bb786f7a6f6e2e7275
 https://t.me/proxy?server=xnet.its-work.ru&port=443&secret=ee726fbbbf8bc37222d0f92a6cac3aacf4636c6f7564666c6172652e636f6d
 tg://proxy?server=159.194.196.176&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
-tg://proxy?server=159.194.239.60&port=443&secret=eee90bf4260006c42c51f77a4625097bd16f7a6f6e2e7275
 https://t.me/proxy?server=proxy.vepltnkv.ru&port=443&secret=eea70cdf629db6c8d3fe5a533612ae5e40636c6f7564666c6172652e636f6d
 tg://proxy?server=91.92.21.116&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=2.26.7.251&port=443&secret=ee9945c587716452618a218583a2d4aaeb73747265616d2e782d627573792e7275
