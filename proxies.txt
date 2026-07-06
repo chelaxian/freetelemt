@@ -1,3 +1,4 @@
+tg://proxy?server=45.9.42.214&port=443&secret=eebaf8ffea99570fa353f095704fa563ed6f7a6f6e2e7275
 tg://proxy?server=31.128.32.197&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
