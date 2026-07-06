@@ -1,3 +1,6 @@
+https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
+https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
+https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
 tg://proxy?server=155.212.210.196&port=443&secret=eec4764b3a8f0077aa075cdba4626341336f7a6f6e2e7275
 tg://proxy?server=test.nekonekon.com&port=8433&secret=ee70429a7156897734fd62a389847b5dfe6e656b6f6e656b6f6e2e636f6d
 tg://proxy?server=ru.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
