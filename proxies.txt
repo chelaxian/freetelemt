@@ -1,8 +1,6 @@
 tg://proxy?server=31.128.32.197&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
-tg://proxy?server=217.114.11.87&port=443&secret=eee773b310f080e6334663d7893f99a39d6f7a6f6e2e7275
-https://t.me/proxy?server=admin.willdomarket.com&port=443&secret=eeade38833e5bb815a530e394895b634e461646d696e2e77696c6c646f6d61726b65742e636f6d
 https://t.me/proxy?server=power.nolags.pw&port=443&secret=ddc44116b4d7fbd81392e8978089eec7f4
 tg://proxy?server=2.26.7.251&port=443&secret=ee9945c587716452618a218583a2d4aaeb73747265616d2e782d627573792e7275
 tg://proxy?server=somafan.iamstive.top&port=443&secret=ee631f2454a461ed2bd1c509cf9954cda8736f6d6166616e2e69616d73746976652e746f70
