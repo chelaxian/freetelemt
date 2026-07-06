@@ -1,8 +1,7 @@
-https://t.me/proxy?server=admin.willdomarket.com&port=443&secret=eeade38833e5bb815a530e394895b634e461646d696e2e77696c6c646f6d61726b65742e636f6d
-https://t.me/proxy?server=power.nolags.pw&port=443&secret=ddc44116b4d7fbd81392e8978089eec7f4
 https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
 https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
 https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
+https://t.me/proxy?server=power.nolags.pw&port=443&secret=ddc44116b4d7fbd81392e8978089eec7f4
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4d8b62f903
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
 https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
