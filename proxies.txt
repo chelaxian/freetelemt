@@ -1,3 +1,4 @@
+https://t.me/proxy?server=31.129.96.103&port=443&secret=ee000000000000000000000000000becE06f7a6f6e2e7275
 tg://proxy?server=45.84.226.152&port=443&secret=ee2ab22f593b080ef4790b59978593e92f6f7a6f6e2e7275
 https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
 https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
