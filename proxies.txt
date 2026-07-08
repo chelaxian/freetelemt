@@ -1,7 +1,7 @@
+tg://proxy?server=159.194.209.48&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
+tg://proxy?server=46.173.24.54&port=443&secret=ee326146c152d81dbc4c5603660323d5b56f7a6f6e2e7275
 tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527275747562652e7275
-tg://proxy?server=155.212.216.86&port=443&secret=ee8665b4cc9542773bfb1dadb5b421f8356f7a6f6e2e7275
 tg://proxy?server=2.58.98.19&port=443&secret=eefd1231475655c6e6c706bfe6c4f86f45636c6f7564666c6172652e636f6d
-tg://proxy?server=46.173.17.103&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
 https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
 https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
