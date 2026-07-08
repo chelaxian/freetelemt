@@ -1,3 +1,4 @@
+tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527275747562652e7275
 tg://proxy?server=155.212.216.86&port=443&secret=ee8665b4cc9542773bfb1dadb5b421f8356f7a6f6e2e7275
 tg://proxy?server=2.58.98.19&port=443&secret=eefd1231475655c6e6c706bfe6c4f86f45636c6f7564666c6172652e636f6d
 tg://proxy?server=46.173.17.103&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
