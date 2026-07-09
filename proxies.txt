@@ -1,9 +1,9 @@
+tg://proxy?server=195.133.24.46&port=443&secret=ee1194b4b2876cb36e1b5d14731cfb04ce6f7a6f6e2e7275
 tg://proxy?server=217.114.11.244&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
 tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476
 tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476
 tg://proxy?server=th.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476
-tg://proxy?server=72.56.70.20&port=443&secret=eeac39424f7f0bc1508ea3d1ab73f187a76f7a6f6e2e7275
 tg://proxy?server=test.nekonekon.com&port=555&secret=ee5b59e0555e1093942355aa987e9c5954676f6f676c652e7275
 https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
 https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
@@ -29,7 +29,6 @@ tg://proxy?server=proxy-nl.littleusername.ru&port=1536&secret=ee5d992515db0d46e7
 https://t.me/proxy?server=cdn.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=p1.cryptokazancev.ru&port=443&secret=eec3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f879612e7275
 tg://proxy?server=cdn.norkn.top&port=443&secret=ee952d13e57c4bb39934cee4f141c92a9f6d6972726f722e646f636b65722e7275
-https://t.me/proxy?server=rnk.hopto.org&port=9443&secret=ee30d331a3d09c462079cfcfc541ef8684706574726f766963682e7275
 tg://proxy?server=secure.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=go.norkn.top&port=443&secret=ee55be84478776a1b1492a8d164c5695c46d6972726f722e74696d657765622e7275
 tg://proxy?server=tgmt.st-29.online&port=443&secret=ee2258b5fc20d87c0534e25f1f860a729f6c656e74612e7275
