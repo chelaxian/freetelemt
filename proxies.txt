@@ -27,9 +27,7 @@ tg://proxy?server=proxy-nl.littleusername.ru&port=1536&secret=ee5d992515db0d46e7
 https://t.me/proxy?server=cdn.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=p1.cryptokazancev.ru&port=443&secret=eec3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f879612e7275
 tg://proxy?server=cdn.norkn.top&port=443&secret=ee952d13e57c4bb39934cee4f141c92a9f6d6972726f722e646f636b65722e7275
-tg://proxy?server=mirror.rkn.digital&port=443&secret=eec45700cddd494eb8a993de0023cafd7f6d6972726f722e636f7262696e612e6e6574
 https://t.me/proxy?server=rnk.hopto.org&port=9443&secret=ee30d331a3d09c462079cfcfc541ef8684706574726f766963682e7275
-tg://proxy?server=secure.rkn.digital&port=443&secret=ee5b47ed28e75307f94f85e810f149a5956d6972726f722e747275656e6574776f726b2e7275
 tg://proxy?server=secure.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=go.norkn.top&port=443&secret=ee55be84478776a1b1492a8d164c5695c46d6972726f722e74696d657765622e7275
 tg://proxy?server=tgmt.st-29.online&port=443&secret=ee2258b5fc20d87c0534e25f1f860a729f6c656e74612e7275
