@@ -1,3 +1,4 @@
+tg://proxy?server=foxtrotalpha.whiskeytangofoxtrot.lol&port=443&secret=eed3779453e7b7245e2f99f11df375b49a666f7874726f74616c7068612e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://proxy?server=195.133.24.46&port=443&secret=ee1194b4b2876cb36e1b5d14731cfb04ce6f7a6f6e2e7275
 tg://proxy?server=217.114.11.244&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
