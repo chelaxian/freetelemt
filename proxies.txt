@@ -1,6 +1,5 @@
 tg://proxy?server=45.152.86.82&port=443&secret=ee5fc87d30d4b9d9a25227bc773bd0dab86f6b2e7275
 tg://proxy?server=62.217.180.157&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
-tg://proxy?server=195.133.24.46&port=443&secret=ee1194b4b2876cb36e1b5d14731cfb04ce6f7a6f6e2e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
 tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476
 tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476
