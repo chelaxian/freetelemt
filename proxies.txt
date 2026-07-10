@@ -1,3 +1,5 @@
+tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
+tg://proxy?server=92.51.46.243&port=443&secret=ee7a38d79bc40211a6c098a26c4816de856f7a6f6e2e7275
 tg://proxy?server=45.152.86.82&port=443&secret=ee5fc87d30d4b9d9a25227bc773bd0dab86f6b2e7275
 tg://proxy?server=62.217.180.157&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
@@ -10,7 +12,6 @@ https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594d
 https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
 tg://proxy?server=ru.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
-tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 https://t.me/proxy?server=power.nolags.pw&port=443&secret=ddc44116b4d7fbd81392e8978089eec7f4
 tg://proxy?server=ru.gotelega.click&port=443&secret=eef6fd3b2e6af4c284066f5a6e0b6d8bcc72752e676f74656c6567612e636c69636b
 tg://proxy?server=free.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
