@@ -1,7 +1,6 @@
+tg://proxy?server=coffeex.liketg.org&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad70696b2e7275
+tg://proxy?server=147.45.171.85&port=443&secret=ee8594058f0f2f024ba92ffed64d2aae1a6f7a6f6e2e7275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
-tg://proxy?server=92.51.46.243&port=443&secret=ee7a38d79bc40211a6c098a26c4816de856f7a6f6e2e7275
-tg://proxy?server=45.152.86.82&port=443&secret=ee5fc87d30d4b9d9a25227bc773bd0dab86f6b2e7275
-tg://proxy?server=62.217.180.157&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
 tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476
 tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476
