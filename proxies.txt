@@ -1,3 +1,4 @@
+tg://proxy?server=proxy-nl.littleusername.ru&port=1537&secret=ee9b3f92d9d4bdd09104195290e509dfec77696c64626572726965732e7275
 tg://proxy?server=45.152.86.82&port=443&secret=ee5fc87d30d4b9d9a25227bc773bd0dab86f6b2e7275
 tg://proxy?server=62.217.180.157&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
