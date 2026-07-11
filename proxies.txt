@@ -1,8 +1,9 @@
+tg://proxy?server=fit.qbconnect.link&port=443&secret=ee20233b030ab1dd6b42d811d07f7bf69079616e676f2e636f6d
+tg://proxy?server=83.222.18.75&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=ru.gotelega.click&port=443&secret=ee8b94e8dc89a03a4b2526747c1f640f6172752e676f74656c6567612e636c69636b
 tg://proxy?server=tgr.baboon.digital&port=443&secret=ee880bb4a2979007f68ea90e3895e360ff706574726f766963682e7275
 tg://proxy?server=proxy1.invorkel.space&port=8443&secret=ee1c30717f4a78d3fd439489ae376d0c5070726f7879312e696e766f726b656c2e7370616365
 tg://proxy?server=proxy2.invorkel.space&port=443&secret=eed135827bd4909e516186d1f54f88331c6d61782e7275
-tg://proxy?server=5.35.89.241&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
 tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476
