@@ -1,4 +1,3 @@
-tg://proxy?server=fin83.ddproxy.xyz&port=443&secret=ee3dca07484b5bd3208d4becf4dcdf5c8e66696e38332e646470726f78792e78797a
 tg://proxy?server=5.35.89.241&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
