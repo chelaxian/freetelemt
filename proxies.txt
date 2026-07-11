@@ -1,3 +1,4 @@
+tg://proxy?server=87.120.196.100&port=443&secret=eee24aa7692fa6f661c630ac05dd8a75e26f7a6f6e2e7275
 tg://proxy?server=proxy1.invorkel.space&port=8443&secret=ee1c30717f4a78d3fd439489ae376d0c5070726f7879312e696e766f726b656c2e7370616365
 tg://proxy?server=proxy2.invorkel.space&port=443&secret=eed135827bd4909e516186d1f54f88331c6d61782e7275
 tg://proxy?server=5.35.89.241&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
