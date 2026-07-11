@@ -16,7 +16,6 @@ https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594d
 https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
 tg://proxy?server=ru.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
-https://t.me/proxy?server=power.nolags.pw&port=443&secret=ddc44116b4d7fbd81392e8978089eec7f4
 tg://proxy?server=free.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=azamatx.ru&port=443&secret=ee1f2a9e2f72b01e9f39aae711ed6ea7c063646e2e79616e6465782e7275
 tg://proxy?server=176.100.39.183&port=443&secret=eecd799bb0dae359a54229780c656476eb7072696d6f72652e7275
