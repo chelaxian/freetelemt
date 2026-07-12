@@ -1,3 +1,4 @@
+tg://proxy?server=62.113.102.147&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=82.202.131.190&port=443&secret=ee05ff35de70d61348b59cd70e4671349a6f7a6f6e2e7275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=217.114.15.236&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
@@ -13,9 +14,6 @@ tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655
 tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476
 tg://proxy?server=th.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476
 tg://proxy?server=test.nekonekon.com&port=555&secret=ee5b59e0555e1093942355aa987e9c5954676f6f676c652e7275
-https://t.me/proxy?server=proxy.chankovich.space&port=443&secret=ee7f372d0045b5838065f6c7a1910a43a87a6f6e6166696c6d2e7275
-https://t.me/proxy?server=kino.chankovich.space&port=443&secret=eee8a15d3fd6594dcbad4a6c72e09c33986d626b696e6f2e636f6d
-https://t.me/proxy?server=status.chankovich.space&port=443&secret=eecf590d9b9cc7ea86f772bb23baa5db596465746563746f723430342e7275
 tg://proxy?server=ru.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
 tg://proxy?server=free.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
