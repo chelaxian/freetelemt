@@ -22,10 +22,6 @@ tg://proxy?server=azamatx.ru&port=443&secret=ee1f2a9e2f72b01e9f39aae711ed6ea7c06
 tg://proxy?server=176.100.39.183&port=443&secret=eecd799bb0dae359a54229780c656476eb7072696d6f72652e7275
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=ddc1e84a7f2d9b3056eaf17c4d8b62f903
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
-tg://proxy?server=tgnn.live&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
-tg://proxy?server=213.219.212.17&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
-tg://proxy?server=213.219.212.16&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
-tg://proxy?server=85.192.33.204&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
 https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=hcaptcha.us.kg&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef268636170746368612e75732e6b67
 https://t.me/proxy?server=hcaptcha.us.kg&port=443&secret=ddb9368cadbd8a756073e33cd2598dbef2
