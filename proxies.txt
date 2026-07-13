@@ -3,11 +3,9 @@ tg://proxy?server=5.35.90.195&port=443&secret=ee235bd4d18544573e9438a7086cf4c275
 tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=31.76.79.122&port=443&secret=eed25c991f572d3ecc901a45d46230dcbd6f7a6f6e2e7275
 tg://proxy?server=ru.gotelega.click&port=443&secret=ee8b94e8dc89a03a4b2526747c1f640f6172752e676f74656c6567612e636c69636b
-tg://proxy?server=tgr.baboon.digital&port=443&secret=ee880bb4a2979007f68ea90e3895e360ff706574726f766963682e7275
 tg://proxy?server=2.27.248.124&port=443&secret=ee25822b53f275a16cfc2d84e5db33bd656d61782e7275
 tg://proxy?server=proxy1.invorkel.space&port=8443&secret=ee1c30717f4a78d3fd439489ae376d0c5070726f7879312e696e766f726b656c2e7370616365
 tg://proxy?server=proxy2.invorkel.space&port=443&secret=eed135827bd4909e516186d1f54f88331c6d61782e7275
-tg://proxy?server=tgr.baboon.digital&port=443&secret=eeb88debaf36b3bb8641920711b7f3af86706574726f766963682e7275
 tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476
 tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476
 tg://proxy?server=th.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476
@@ -26,7 +24,6 @@ tg://proxy?server=proxy-nl.littleusername.ru&port=1536&secret=ee5d992515db0d46e7
 https://t.me/proxy?server=cdn.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=p1.cryptokazancev.ru&port=443&secret=eec3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f879612e7275
 tg://proxy?server=secure.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=go.norkn.top&port=443&secret=ee55be84478776a1b1492a8d164c5695c46d6972726f722e74696d657765622e7275
 tg://proxy?server=tgmt.st-29.online&port=443&secret=ee2258b5fc20d87c0534e25f1f860a729f6c656e74612e7275
 tg://proxy?server=tgmt.st-29.ru&port=443&secret=ee8fc6007490d148f20f93ba5e580fe2a66d6f736d6574726f2e7275
 tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
