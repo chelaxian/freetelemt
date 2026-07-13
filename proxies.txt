@@ -7,9 +7,6 @@ tg://proxy?server=ru.gotelega.click&port=443&secret=ee8b94e8dc89a03a4b2526747c1f
 tg://proxy?server=2.27.248.124&port=443&secret=ee25822b53f275a16cfc2d84e5db33bd656d61782e7275
 tg://proxy?server=proxy1.invorkel.space&port=8443&secret=ee1c30717f4a78d3fd439489ae376d0c5070726f7879312e696e766f726b656c2e7370616365
 tg://proxy?server=proxy2.invorkel.space&port=443&secret=eed135827bd4909e516186d1f54f88331c6d61782e7275
-tg://proxy?server=o.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a67716c2d31757037643876307a6c6e6f323130782e7477697463682e7476
-tg://proxy?server=tw.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a72746d702e7477697463682e7476
-tg://proxy?server=th.turboproxy.pro&port=443&secret=ee8b60156255cd03a3201a4af8655e211a6d2e7477697463682e7476
 tg://proxy?server=test.nekonekon.com&port=555&secret=ee5b59e0555e1093942355aa987e9c5954676f6f676c652e7275
 tg://proxy?server=ru.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=test.ddproxy.xyz&port=443&secret=ee7af7516b15e94579eee7ba8aac58d3aa6d2e766167696e6b652e73697465
