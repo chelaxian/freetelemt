@@ -18,7 +18,6 @@ https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b305
 https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=proxy-nl.littleusername.ru&port=1536&secret=ee5d992515db0d46e76aa7a7947a26235d77696c64626572726965732e7275
 https://t.me/proxy?server=cdn.mtproxy.pw&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=p1.cryptokazancev.ru&port=443&secret=eec3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f879612e7275
 tg://proxy?server=secure.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
 tg://proxy?server=tgmt.st-29.online&port=443&secret=ee2258b5fc20d87c0534e25f1f860a729f6c656e74612e7275
 tg://proxy?server=tgmt.st-29.ru&port=443&secret=ee8fc6007490d148f20f93ba5e580fe2a66d6f736d6574726f2e7275
