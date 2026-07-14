@@ -1,7 +1,7 @@
+tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=jarko.myrka.digital&port=443&secret=dd04daa35f7150d1d16c43f270c2683108
 tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 tg://proxy?server=159.194.235.92&port=443&secret=ee134716ddc242103032dda5a21f0fcb256f7a6f6e2e7275
-tg://proxy?server=ruproxy.ddproxy.xyz&port=443&secret=ee17944059d0cf5c364923746017c5ef346170706c65676f642e7275
 tg://proxy?server=rkn.botrkn.cloud-ip.cc&port=443&secret=ee8e8e5a710e861f31d6072974929948ae726b6e2e626f74726b6e2e636c6f75642d69702e6363
 tg://proxy?server=62.217.176.200&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=143.246.138.57&port=443&secret=ee45eac47e93699de1f4d459104e46738f6f7a6f6e2e7275
