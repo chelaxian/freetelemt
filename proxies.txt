@@ -3,7 +3,6 @@ tg://proxy?server=31.77.79.200&port=443&secret=ee5ff260123fe9170f72ab55bd636c4ea
 tg://proxy?server=31.76.249.27&port=443&secret=eee037084fdacd6be33a649c3903456cfa6f7a6f6e2e7275
 tg://proxy?server=159.194.204.176&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=rkn1.botrkn.cloud-ip.cc&port=443&secret=eef6564861f6b464d94e1acc6564428cee726b6e312e626f74726b6e2e636c6f75642d69702e6363
-tg://proxy?server=31.129.99.254&port=443&secret=ee995f288ac5b8863160596348f1b898846f7a6f6e2e7275
 tg://proxy?server=free.vnespiska.org&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
 tg://proxy?server=91.229.90.210&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=proxy.nekonekon.com&port=8443&secret=ee1dc41246ebc25958e247bcff7dda9c3b6e656b6f6e656b6f6e2e636f6d
