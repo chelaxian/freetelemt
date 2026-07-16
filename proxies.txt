@@ -5,7 +5,6 @@ tg://proxy?server=85.17.180.158&port=443&secret=eeb9368cadbd8a756073e33cd2598dbe
 tg://proxy?server=91.98.132.62&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef239312e39382e3133322e36322e6e69702e696f
 tg://proxy?server=212.67.15.184&port=443&secret=eef02e78d5d6f4773aa100363be5cec7106f7a6f6e2e7275
 tg://proxy?server=rknmylove.botrkn.cloud-ip.cc&port=443&secret=ee16ee6226548cf2295d032b206f1bfb1e726b6e6d796c6f76652e626f74726b6e2e636c6f75642d69702e6363
-https://t.me/proxy?server=open.gotelega.click&port=443&secret=ee3b497b846405ee07ba75db86d90ff7df6f70656e2e676f74656c6567612e636c69636b
 tg://proxy?server=91.229.90.247&port=443&secret=ee58f7b887c36502c32d0a914064e0379b6f7a6f6e2e7275
 tg://proxy?server=23.172.217.192&port=443&secret=ee7e30527e593fa47765a59252e332292e6f7a6f6e2e7275
 tg://proxy?server=31.77.79.200&port=443&secret=ee5ff260123fe9170f72ab55bd636c4ea46f7a6f6e2e7275
