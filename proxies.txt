@@ -1,3 +1,5 @@
+tg://proxy?server=tgtun.mxnc.ru&port=443&secret=ee572440bce47cf0e1965632ce36b18ce9746774756e2e6d786e632e7275&comment=public
+tg://proxy?server=93.189.230.24&port=443&secret=ee783f4bdf18a37b5f83dc3288897bfebc6f7a6f6e2e7275
 https://t.me/proxy?server=open.gotelega.click&port=443&secret=ee3b497b846405ee07ba75db86d90ff7df6f70656e2e676f74656c6567612e636c69636b
 tg://proxy?server=217.114.3.29&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=91.229.90.247&port=443&secret=ee58f7b887c36502c32d0a914064e0379b6f7a6f6e2e7275
