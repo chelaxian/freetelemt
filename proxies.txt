@@ -1,3 +1,4 @@
+tg://proxy?server=temp38757.ddproxy.xyz&port=443&secret=eee2a2a2f453f6f765166ee4b534d0a26174656d7033383735372e646470726f78792e78797a
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 tg://proxy?server=159.194.230.93&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
@@ -7,7 +8,6 @@ tg://proxy?server=95.211.165.154&port=443&secret=eeb9368cadbd8a756073e33cd2598db
 tg://proxy?server=85.17.180.158&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef238352e31372e3138302e3135382e6e69702e696f
 tg://proxy?server=91.98.132.62&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef239312e39382e3133322e36322e6e69702e696f
 tg://proxy?server=rknmylove.botrkn.cloud-ip.cc&port=443&secret=ee16ee6226548cf2295d032b206f1bfb1e726b6e6d796c6f76652e626f74726b6e2e636c6f75642d69702e6363
-tg://proxy?server=91.229.90.247&port=443&secret=ee58f7b887c36502c32d0a914064e0379b6f7a6f6e2e7275
 tg://proxy?server=23.172.217.192&port=443&secret=ee7e30527e593fa47765a59252e332292e6f7a6f6e2e7275
 tg://proxy?server=31.77.79.200&port=443&secret=ee5ff260123fe9170f72ab55bd636c4ea46f7a6f6e2e7275
 tg://proxy?server=31.76.249.27&port=443&secret=eee037084fdacd6be33a649c3903456cfa6f7a6f6e2e7275
