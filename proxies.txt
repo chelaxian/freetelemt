@@ -1,3 +1,4 @@
+tg://proxy?server=159.194.235.99&port=443&secret=eeabcacc74abf9ff304e17ed98ba936e906f7a6f6e2e7275
 tg://proxy?server=tspu2.botrkn.cloud-ip.cc&port=443&secret=ee8d973c0b23b567e2f4a46fec4b941f6774737075322e626f74726b6e2e636c6f75642d69702e6363
 tg://proxy?server=tspu.botrkn.cloud-ip.cc&port=443&secret=eef0544b39c69845aec82874ab5be25523747370752e626f74726b6e2e636c6f75642d69702e6363
 tg://proxy?server=159.194.203.153&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
