@@ -1,7 +1,7 @@
+tg://proxy?server=2.26.124.191&port=443&secret=eeb4aacec6a91b1c525092d6a16e695b457275747562652e7275
 tg://proxy?server=cba.botrkn.cloud-ip.cc&port=443&secret=eef9c3dfd5cf2f3729487a1dd8b9dd12456362612e626f74726b6e2e636c6f75642d69702e6363
 tg://proxy?server=temp38757.ddproxy.xyz&port=443&secret=eee2a2a2f453f6f765166ee4b534d0a26174656d7033383735372e646470726f78792e78797a
 tg://proxy?server=85.198.68.23&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
-tg://proxy?server=abc.botrkn.cloud-ip.cc&port=443&secret=ee3ff3df9512381e7fd87ec5c91a2aed756162632e626f74726b6e2e636c6f75642d69702e6363
 tg://proxy?server=109.172.47.253&port=443&secret=ee9e8310387bfb8919e3dcc07db8784f026f7a6f6e2e7275
 tg://proxy?server=marianne-feld.com&port=2053&secret=ee0249892efb174c416c85abcf83691fb36d617269616e6e652d66656c642e636f6d
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
