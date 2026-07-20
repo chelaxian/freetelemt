@@ -1,3 +1,4 @@
+tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 tg://proxy?server=159.194.207.171&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=159.194.228.80&port=443&secret=ee7921d83ef289875f5eec91514a7a0b786f7a6f6e2e7275
 tg://proxy?server=ybl.data-edge.fyi&port=444&secret=ee3b11ee47f1c84f97b28cb075258e6f7d7275747562652e7275
