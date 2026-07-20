@@ -1,5 +1,5 @@
+tg://proxy?server=31.129.105.170&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=185.23.34.109&port=443&secret=eec78936efd8689779b675d32f11a136686f7a6f6e2e7275
-tg://proxy?server=217.114.3.240&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=45.128.235.128&port=443&secret=ee00b35190c4c0ac2878cdaa2e085836ad6f7a6f6e2e7275
 tg://proxy?server=temp38757.ddproxy.xyz&port=443&secret=eee2a2a2f453f6f765166ee4b534d0a26174656d7033383735372e646470726f78792e78797a
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
