@@ -1,3 +1,5 @@
+https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
+tg://proxy?server=155.212.138.198&port=443&secret=ee7c0ffee5deadbeef1234567890abcdef79616e6465782e7275
 tg://proxy?server=temp82669.ddproxy.xyz&port=443&secret=ee8e50bb8dc09048574e0e8027323ccc6474656d7038323636392e646470726f78792e78797a
 tg://proxy?server=ybl.data-edge.fyi&port=444&secret=ee3b11ee47f1c84f97b28cb075258e6f7d7275747562652e7275
 tg://proxy?server=31.129.104.14&port=443&secret=ee8cf7a55971a34f8496540c17b0e029d46f7a6f6e2e7275
@@ -5,8 +7,6 @@ tg://proxy?server=159.194.207.171&port=443&secret=ee0dbf98440246f4b9228dd2b70425
 tg://proxy?server=tsw.baboon.digital&port=443&secret=ee5f20bd8e2f77ff570e85a0157d8622dd706574726f766963682e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
-tg://proxy?server=tgy.baboon.digital&port=443&secret=ee63ca3f5151a49f698d2351d7be69c860706574726f766963682e7275
-https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee0ed599492f969465c4585d5fb71fea7c6c6976652e726b6e2e646f67
 tg://proxy?server=free.vnespiska.org&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
 tg://proxy?server=proxy.nekonekon.com&port=8443&secret=ee1dc41246ebc25958e247bcff7dda9c3b6e656b6f6e656b6f6e2e636f6d
 tg://proxy?server=31.76.79.122&port=443&secret=eed25c991f572d3ecc901a45d46230dcbd6f7a6f6e2e7275
