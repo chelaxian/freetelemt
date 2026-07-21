@@ -1,3 +1,4 @@
+tg://proxy?server=31.129.104.14&port=443&secret=ee8cf7a55971a34f8496540c17b0e029d46f7a6f6e2e7275
 tg://proxy?server=159.194.207.171&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=temp82669.ddproxy.xyz&port=443&secret=ee8e50bb8dc09048574e0e8027323ccc6474656d7038333631392e646470726f78792e78797a
 tg://proxy?server=ybl.data-edge.fyi&port=444&secret=ee3b11ee47f1c84f97b28cb075258e6f7d7275747562652e7275
