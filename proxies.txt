@@ -1,4 +1,4 @@
-tg://proxy?server=85.198.70.166&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
+tg://proxy?server=159.194.204.169&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=109.172.47.147&port=443&secret=ee08d64f8911bb9d7ad4366039820c69636f7a6f6e2e7275
 https://t.me/proxy?server=195.63.131.95&port=443&secret=eec6f128c825f88949d8b18ff95f2537ff6c6f67696e2e6c6976652e636f6d&comment=test_test
 tg://proxy?server=155.212.138.198&port=443&secret=ee7c0ffee5deadbeef1234567890abcdef79616e6465782e7275
