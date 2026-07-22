@@ -1,5 +1,5 @@
+tg://proxy?server=45.67.58.172&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=155.212.222.147&port=443&secret=eef3d612fb6b9f1ff6535112e941dca9ea6f7a6f6e2e7275
-tg://proxy?server=159.194.207.171&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
 tg://proxy?server=155.212.138.198&port=443&secret=ee7c0ffee5deadbeef1234567890abcdef79616e6465782e7275
 tg://proxy?server=temp82669.ddproxy.xyz&port=443&secret=ee8e50bb8dc09048574e0e8027323ccc6474656d7038323636392e646470726f78792e78797a
