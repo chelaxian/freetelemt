@@ -1,7 +1,6 @@
 tg://proxy?server=83.222.17.252&port=443&secret=ee504f0a16782bd445b86405861fd00d88706f636874612e7275
 tg://proxy?server=ybl.data-edge.fyi&port=444&secret=ee3b11ee47f1c84f97b28cb075258e6f7d7275747562652e7275
 tg://proxy?server=159.194.204.169&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
-tg://proxy?server=109.172.47.147&port=443&secret=ee08d64f8911bb9d7ad4366039820c69636f7a6f6e2e7275
 https://t.me/proxy?server=195.63.131.95&port=443&secret=eec6f128c825f88949d8b18ff95f2537ff6c6f67696e2e6c6976652e636f6d&comment=test_test
 tg://proxy?server=155.212.138.198&port=443&secret=ee7c0ffee5deadbeef1234567890abcdef79616e6465782e7275
 tg://proxy?server=tsw.baboon.digital&port=443&secret=ee5f20bd8e2f77ff570e85a0157d8622dd706574726f766963682e7275
