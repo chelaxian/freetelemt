@@ -1,10 +1,9 @@
-tg://proxy?server=93.189.230.117&port=443&secret=eeb051b4f12836d89dc9e435987d20a4426f7a6f6e2e7275
+tg://proxy?server=155.212.217.129&port=443&secret=eec3d331b88dc07c9a111f2049401dc3336f7a6f6e2e7275
 tg://proxy?server=littest.getvelora.space&port=443&secret=ee27626085dd22f6c532ed296b53fe2f1a6f7a6f6e2e7275
 tg://proxy?server=patogotest.getvelora.space&port=443&secret=ee47f4d161891c65c4573971383f14497a6f7a6f6e2e7275
 tg://proxy?server=test-p2g.getvelora.space&port=443&secret=ee5726eb5b08b7ea17bd000ff81337e59e6f7a6f6e2e7275
 tg://proxy?server=45.146.165.70&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=77.239.112.37&port=443&secret=eeda6c04a3cbb1fdeb45c9811b29371182766b2e7275
-tg://proxy?server=ybl.data-edge.fyi&port=444&secret=ee3b11ee47f1c84f97b28cb075258e6f7d7275747562652e7275
 tg://proxy?server=159.194.204.169&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=155.212.138.198&port=443&secret=ee7c0ffee5deadbeef1234567890abcdef79616e6465782e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
