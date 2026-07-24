@@ -1,5 +1,4 @@
-https://t.me/proxy?server=85.117.235.55&port=443&secret=eea2afbe51c8096823ac0c8a861c2bcef06f7a6f6e2e7275
-tg://proxy?server=45.146.165.70&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
+tg://proxy?server=45.153.191.117&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=77.239.112.37&port=443&secret=eeda6c04a3cbb1fdeb45c9811b29371182766b2e7275
 tg://proxy?server=159.194.204.169&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
