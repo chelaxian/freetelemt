@@ -1,3 +1,4 @@
+tg://proxy?server=tgm.baboon.digital&port=443&secret=ee6c121b61da90af558d821ff89328bdce706574726f766963682e7275
 tg://proxy?server=159.194.229.111&port=443&secret=eec3ae28f07fa337fe579d2d6602a286186f7a6f6e2e7275
 tg://proxy?server=45.12.239.211&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
