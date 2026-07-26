@@ -1,5 +1,4 @@
 tg://proxy?server=kawaii.gyaru.ru&port=443&secret=eec070cdfeffc4b09de810fb07916d26906b61776169692e67796172752e7275
-https://t.me/proxy?server=31.59.106.253&port=443&secret=ee9280f18ba7783923d43e3884ffcdd67f6175746f73636f757432342e7275
 tg://proxy?server=45.12.239.211&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=tgm.baboon.digital&port=443&secret=ee6c121b61da90af558d821ff89328bdce706574726f766963682e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
