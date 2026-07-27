@@ -1,6 +1,5 @@
+tg://proxy?server=46.173.17.76&port=443&secret=ee6000f4b8e47401d7a294a400317238296f7a6f6e2e7275
 tg://proxy?server=109.172.47.96&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
-tg://proxy?server=159.194.213.152&port=443&secret=ee998afb78ab4102dcd71d3d454805b28f6f7a6f6e2e7275
-tg://proxy?server=191.44.114.208&port=444&secret=ee3e5eb74bfef8c3fbc4f5d42e10720b9f6d2e6265626f6f2e7275
 tg://proxy?server=tgm.baboon.digital&port=443&secret=ee6c121b61da90af558d821ff89328bdce706574726f766963682e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
