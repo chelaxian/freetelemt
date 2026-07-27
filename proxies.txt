@@ -1,3 +1,4 @@
+tg://proxy?server=msk.xmodz.icu&port=443&secret=eeb734b9179fb6bdbcc4077dbff7952d1a6d736b2e786d6f647a2e696375
 tg://proxy?server=191.44.114.208&port=444&secret=ee3e5eb74bfef8c3fbc4f5d42e10720b9f6d2e6265626f6f2e7275
 tg://proxy?server=159.194.224.116&port=443&secret=eee855598cc6c6e53b1dc51bcb2b2f34756f7a6f6e2e7275
 tg://proxy?server=155.212.209.201&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
