@@ -1,6 +1,8 @@
+tg://proxy?server=94.183.228.159&port=8443&secret=eea0cdeb29eca0e2b957a8e3cccd7b0c2d6e656b6f6e656b6f6e2e636f6d
+https://t.me/proxy?server=de2t.aqil.ru&port=8443&secret=ee89d20da0e96bc1e79bc23d07d8ed7885706574726f766963682e7275
+tg://proxy?server=159.194.214.33&port=443&secret=ee608feff40a831a681102494847accdba6f7a6f6e2e7275
 tg://proxy?server=live.rkn.dog&port=443&secret=ee94c2dbe7595fbbb9548653e09521ca0a6c6976652e726b6e2e646f67
 tg://proxy?server=217.114.6.192&port=443&secret=ee2a3f4c7f7fdbdb332100292d033936586f7a6f6e2e7275
-tg://proxy?server=94.183.229.128&port=443&secret=ee8cc2d90d9e1060e50daf4fc3d963c2d26e656b6f6e656b6f6e2e636f6d
 tg://proxy?server=tgi.baboon.digital&port=443&secret=ee126c34c79508c533e52a19129290b7d9706574726f766963682e7275
 tg://proxy?server=109.172.47.96&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
