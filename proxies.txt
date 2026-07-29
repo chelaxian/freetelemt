@@ -5,7 +5,6 @@ tg://proxy?server=91.98.132.62&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef
 tg://proxy?server=85.17.180.158&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
 tg://proxy?server=95.211.165.154&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
 tg://proxy?server=94.183.228.159&port=8443&secret=eea0cdeb29eca0e2b957a8e3cccd7b0c2d6e656b6f6e656b6f6e2e636f6d
-tg://proxy?server=live.rkn.dog&port=443&secret=ee94c2dbe7595fbbb9548653e09521ca0a6c6976652e726b6e2e646f67
 tg://proxy?server=tgi.baboon.digital&port=443&secret=ee126c34c79508c533e52a19129290b7d9706574726f766963682e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
