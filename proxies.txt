@@ -1,7 +1,6 @@
 tg://proxy?server=nl.xmodz.icu&port=443&secret=ee6ef53f183246b95294c22689acfb30626e6c2e786d6f647a2e696375
 tg://proxy?server=85.198.70.231&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=fin-kutak.aqil.ru&port=443&secret=eef33e4b9be5166e259fefde55e89334246e6f6b69612e636f6d
-tg://proxy?server=87.120.108.50&port=443&secret=eea9a83ea6edfcbe91157e683bfb2aa8de6d2e6265626f6f2e7275
 tg://proxy?server=91.98.132.62&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
 tg://proxy?server=85.17.180.158&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
 tg://proxy?server=95.211.165.154&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
