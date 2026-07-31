@@ -1,5 +1,4 @@
+https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee8bd872ccec8c7544f41f83b47906f1b06c6976652e726b6e2e646f67
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
-https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee03dd54520b5b8fd3970d650303769b5e6c6976652e726b6e2e646f67
-https://t.me/proxy?server=fin-kutak.aqil.ru&port=443&secret=eef33e4b9be5166e259fefde55e89334246e6f6b69612e636f6d
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
 https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
