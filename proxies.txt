@@ -1,4 +1,3 @@
-https://t.me/proxy?server=212.67.9.11&port=443&secret=eeaf9913871a67618373c5e28e968434616f7a6f6e2e7275
 https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee8bd872ccec8c7544f41f83b47906f1b06c6976652e726b6e2e646f67
 tg://proxy?server=31.207.77.212&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
