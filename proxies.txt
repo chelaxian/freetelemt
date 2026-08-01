@@ -1,9 +1,6 @@
 tg://proxy?server=31.129.106.241&port=443&secret=ee6459b85c8a9b048cc20169adbb7a6a066f7a6f6e2e7275
 tg://proxy?server=31.207.77.212&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
-tg://proxy?server=91.98.132.62&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
-tg://proxy?server=85.17.180.158&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
-tg://proxy?server=95.211.165.154&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
 tg://proxy?server=free.vnespiska.org&port=9443&secret=ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275
