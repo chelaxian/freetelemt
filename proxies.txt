@@ -1,5 +1,3 @@
-tg://proxy?server=03.kvn.nz&port=443&secret=ee12b7769de3d0bbe896b9a5dc40c59dab30332e6b766e2e6e7a
-tg://proxy?server=00.kvn.nz&port=443&secret=eeebb8144cb57038df1762bc4bfd2d0e036d2e6265626f6f2e7275
 tg://proxy?server=31.207.77.212&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
 tg://proxy?server=91.98.132.62&port=443&secret=eeb9368cadbd8a756073e33cd2598dbef26f7a6f6e2e7275
