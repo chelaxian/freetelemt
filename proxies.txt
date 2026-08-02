@@ -1,3 +1,4 @@
+tg://proxy?server=194.58.46.70&port=443&secret=ee6ef53f183246b95294c22689acfb30626e6c2e786d6f647a2e696375
 tg://proxy?server=159.194.234.7&port=443&secret=ee7a40e8130a58c5f3ccb165db240c8e946f7a6f6e2e7275
 tg://proxy?server=31.207.77.212&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
