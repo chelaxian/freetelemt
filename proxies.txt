@@ -1,7 +1,7 @@
+tg://proxy?server=jnwfhubi.ddproxy.xyz&port=443&secret=ee4ee842b3e632adca8c5954b3104289456a6e7766687562692e646470726f78792e78797a
 tg://proxy?LeroPoxy
 tg://proxy?server=api.leeroy.uz&port=443&secret=eeac6f14e383e4035d0a6092db0280a61a6170692d706c75672e6c6565726f792e757a
 tg://proxy?server=5.35.91.61&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275
-https://t.me/proxy?server=batak.aqil.ru&port=443&secret=ee98c7de57c0733fcacb1ddab2e5e635e56b7574616b2e6171696c2e7275
 tg://proxy?server=185.167.97.104&port=443&secret=ee8de31e13c0b75ebd4c5970dfa2c8541770726f78792d706c75672e6c6565726f792e757a
 tg://proxy?server=2.26.124.91&port=443&secret=eeb72b5930c556214f12e4a4e2f3fce0186f7a6f6e2e7275
 https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
