@@ -1,3 +1,5 @@
+https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
+https://t.me/proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527275747562652e7275
 tg://proxy?server=tmr.baboon.digital&port=443&secret=ee92420f5452464d6cc27a35e5dc90b124706574726f766963682e7275
 tg://proxy?server=45.128.235.115&port=443&secret=eec56e200399de2e35a4cc1b8228f89b36706574726f766963682e7275
 tg://proxy?server=159.194.234.7&port=443&secret=ee7a40e8130a58c5f3ccb165db240c8e946f7a6f6e2e7275
