@@ -1,3 +1,7 @@
+https://t.me/proxy?server=batak.aqil.ru&port=443&secret=ee98c7de57c0733fcacb1ddab2e5e635e56b7574616b2e6171696c2e7275
+tg://proxy?LeroPoxy
+tg://proxy?server=185.167.97.104&port=443&secret=ee8de31e13c0b75ebd4c5970dfa2c8541770726f78792d706c75672e6c6565726f792e757a
+tg://proxy?server=2.26.124.91&port=443&secret=eeb72b5930c556214f12e4a4e2f3fce0186f7a6f6e2e7275
 https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
 https://t.me/proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527275747562652e7275
 tg://proxy?server=tmr.baboon.digital&port=443&secret=ee92420f5452464d6cc27a35e5dc90b124706574726f766963682e7275
