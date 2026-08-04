@@ -1,2 +1,6 @@
+https://t.me/proxy?server=batak.aqil.ru&port=443&secret=ee98c7de57c0733fcacb1ddab2e5e635e56b7574616b2e6171696c2e7275
+https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
+https://t.me/proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527275747562652e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
+https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
