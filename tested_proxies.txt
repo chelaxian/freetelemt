@@ -1,3 +1,2 @@
-https://t.me/proxy?server=fin.aqil.ru&port=443&secret=eef33e4b9be5166e259fefde55e89334246b7574616b2e6171696c2e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
