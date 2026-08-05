@@ -1,4 +1,5 @@
 tg://proxy?LeroPoxy
+tg://proxy?server=api.leeroy.uz&port=443&secret=ee2b080d8f406e6a0f0f7d508a932724d26170692d706c75672e6c6565726f792e757a
 tg://proxy?server=api.leeroy.uz&port=443&secret=ee769ed776385f32e9fab55e2a30762dc36170692d706c75672e6c6565726f792e757a
 https://t.me/proxy?server=yrf2.data-edge.fyi&port=443&secret=ee9da390bc7b98ddc0aa2952806a72e5747275747562652e7275
 tg://proxy?server=api.leeroy.uz&port=443&secret=eea0f85bcaf14205f107f9cabffea4b2586170692d706c75672e6c6565726f792e757a
