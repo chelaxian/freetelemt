@@ -12,7 +12,6 @@ tg://proxy?server=185.167.97.104&port=443&secret=ee8de31e13c0b75ebd4c5970dfa2c85
 tg://proxy?server=2.26.124.91&port=443&secret=eeb72b5930c556214f12e4a4e2f3fce0186f7a6f6e2e7275
 tg://proxy?server=tmr.baboon.digital&port=443&secret=ee92420f5452464d6cc27a35e5dc90b124706574726f766963682e7275
 tg://proxy?server=45.128.235.115&port=443&secret=eec56e200399de2e35a4cc1b8228f89b36706574726f766963682e7275
-tg://proxy?server=159.194.234.7&port=443&secret=ee7a40e8130a58c5f3ccb165db240c8e946f7a6f6e2e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
