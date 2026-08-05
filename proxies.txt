@@ -1,3 +1,4 @@
+tg://proxy?server=batak.aqil.ru&port=443&secret=ee1496bb59e227e7bd81d23f021d4cf5d8626174616b2e6171696c2e7275
 tg://proxy?LeroPoxy
 tg://proxy?server=api.leeroy.uz&port=443&secret=eea0f85bcaf14205f107f9cabffea4b2586170692d706c75672e6c6565726f792e757a
 tg://proxy?server=tigr.baboon.digital&port=443&secret=ee12bf2841d704aec0a59c53764e2dcd99706574726f766963682e7275
