@@ -1,3 +1,4 @@
+tg://proxy?server=132.243.211.166&port=443&secret=ee82ad3a2ff8e2ad82dcb2022d5f6487ec6e6c2e786d6f647a2e696375
 tg://proxy?server=fwndwwfr.ddproxy.xyz&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f66776e64777766722e646470726f78792e78797a
 tg://proxy?server=155.212.208.172&port=443&secret=eebe7a197e22c9545d505988b1b89630b36f7a6f6e2e7275
 tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527266312e646174612d656467652e667969
