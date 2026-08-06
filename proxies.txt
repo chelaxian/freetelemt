@@ -1,3 +1,4 @@
+tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527266312e646174612d656467652e667969
 https://t.me/proxy?server=cloud4my.myrevive.online&port=443&secret=ee2ee62ac5cb1b9cf354ad05d2e8791f667477697463682e7476
 tg://proxy?server=api.leeroy.uz&port=443&secret=ee45554b115562210d73062f8b16bee0e46170692d706c75672e6c6565726f792e757a
 tg://proxy?server=5.35.94.53&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f6d2e6265626f6f2e7275
