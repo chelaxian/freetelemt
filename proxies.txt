@@ -1,3 +1,4 @@
+tg://proxy?server=api.leeroy.uz&port=443&secret=ee4f8afe45f745d1eca43a6e97685f5bcb6170692d706c75672e6c6565726f792e757a
 https://t.me/proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
 tg://proxy?server=fwndwwfr.ddproxy.xyz&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f66776e64777766722e646470726f78792e78797a
 tg://proxy?server=155.212.208.172&port=443&secret=eebe7a197e22c9545d505988b1b89630b36f7a6f6e2e7275
