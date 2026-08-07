@@ -1,7 +1,7 @@
-https://t.me/proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
-tg://proxy?server=fwndwwfr.ddproxy.xyz&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f66776e64777766722e646470726f78792e78797a
-tg://proxy?server=155.212.208.172&port=443&secret=eebe7a197e22c9545d505988b1b89630b36f7a6f6e2e7275
+tg://proxy?server=leeroy-privet.ddproxy.xyz&port=443&secret=eeb7090d86eb5e62b255c1acfb6df6da386c6565726f792d7072697665742e646470726f78792e78797a
 tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527266312e646174612d656467652e667969
+https://t.me/proxy?server=mesh.lumious.org&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d6573682e6c756d696f75732e6f7267
+tg://proxy?server=155.212.208.172&port=443&secret=eebe7a197e22c9545d505988b1b89630b36f7a6f6e2e7275
 https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee23f5b6f5c30935a463ab1617a51b9c316c6976652e726b6e2e646f67
 tg://proxy?server=tigr.baboon.digital&port=443&secret=ee12bf2841d704aec0a59c53764e2dcd99706574726f766963682e7275
 https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
