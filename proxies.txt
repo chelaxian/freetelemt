@@ -1,7 +1,4 @@
-tg://proxy?server=dns.vpnpirat.ru&port=443&secret=ee9b623f0a51b3f27375900587ca0650216d2e6265626f6f2e7275
 tg://proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174
-tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee522929f8a138c242059bdd6eed0df7dc7075622e756c7472612d666173742e6363
-tg://webproxy?server=w.ultra-fast.cc&secret=ddeb2176532a2ba0efd4d61127957ee30d
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 tg://webproxy?server=cdnvkvideo01.liketg.org&secret=dd65e58cc66c77a3b454dda5546a1acbcf
 tg://webproxy?server=wow.shipfasterlabs.com%2Fapi%2Fstream&secret=cN34hhpK4_YIeac_M6_cTuzL
