@@ -1,1 +1,12 @@
-https://t.me/proxy?server=cdn.muztv.top&port=443&secret=ee1b017d726fc969134b775ac89e8980877061636b616765732e6c616235302e6e6574
+tg://proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174
+tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee522929f8a138c242059bdd6eed0df7dc7075622e756c7472612d666173742e6363
+tg://webproxy?server=w.ultra-fast.cc&secret=ddeb2176532a2ba0efd4d61127957ee30d
+https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
+tg://webproxy?server=cdnvkvideo01.liketg.org&secret=dd65e58cc66c77a3b454dda5546a1acbcf
+https://t.me/webproxy?server=talya.stream&secret=dd726b6e2068757920736f736974653a29
+tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
+https://t.me/proxy?server=meow.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+tg://proxy?server=shared2.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
