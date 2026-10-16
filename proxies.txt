@@ -2,7 +2,6 @@ tg://proxy?server=2.26.254.126&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947
 tg://proxy?server=dns.vdl.lat&port=443&secret=eece59031f1109f05387b7155534c7ac87646e732e76646c2e6c6174
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 tg://webproxy?server=cdnvkvideo01.liketg.org&secret=dd65e58cc66c77a3b454dda5546a1acbcf
-tg://webproxy?server=wow.shipfasterlabs.com%2Fapi%2Fstream&secret=cN34hhpK4_YIeac_M6_cTuzL
 https://t.me/webproxy?server=talya.stream&secret=dd726b6e2068757920736f736974653a29
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=mtproto.win&secret=dde5544cb710bae52b8bcbc05375921c16
