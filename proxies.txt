@@ -1,3 +1,4 @@
+tg://proxy?server=nano.sexycapybara.xyz&port=443&secret=eec5ef29960fefcf4bf808e27f0afa21a86e616e6f2e7365787963617079626172612e78797a
 https://t.me/proxy?server=t3.nevcodeframe.com&port=443&secret=ee0e4d933242164450da8a7e6b469b629774332e6e6576636f64656672616d652e636f6d
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eefbf8fe4eaf7bac5100d9cbe9e2c3df587075622e756c7472612d666173742e6363
 tg://webproxy?server=w.ultra-fast.cc&secret=ddeb2176532a2ba0efd4d61127957ee30d
