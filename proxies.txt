@@ -2,8 +2,6 @@ https://t.me/webproxy?server=kokor.win&secret=dde5544cb710bae52b8bcbc05375921c16
 tg://webproxy?server=webproxy.stream&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=tgweb.sonyasqwirtik.com&secret=dd9bb6289cc7e9f2c7ee49e8f937ad8841
 https://t.me/proxy?server=t3.nevcodeframe.com&port=443&secret=ee0e4d933242164450da8a7e6b469b629774332e6e6576636f64656672616d652e636f6d
-https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eefbf8fe4eaf7bac5100d9cbe9e2c3df587075622e756c7472612d666173742e6363
-tg://webproxy?server=w.ultra-fast.cc&secret=ddeb2176532a2ba0efd4d61127957ee30d
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 tg://webproxy?server=cdnvkvideo01.liketg.org&secret=dd65e58cc66c77a3b454dda5546a1acbcf
 https://t.me/webproxy?server=talya.stream&secret=dd726b6e2068757920736f736974653a29
