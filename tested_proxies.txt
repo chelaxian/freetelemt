@@ -1,5 +1,4 @@
-tg://proxy?server=194.180.189.39&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
-tg://proxy?server=static.b-telega.shop&port=443&secret=ee9a3f90be73d8392fd072f9860a2699de7374617469632e622d74656c6567612e73686f70
+tg://proxy?server=uwu.mishutkin.click&port=443&secret=eec21a6ac829a6acfe1077910fc3da1c127577752e6d69736875746b696e2e636c69636b
 tg://proxy?server=papaomega.whiskeytangofoxtrot.lol&port=443&secret=ee9902a916e700ce3d6030655cd1fd7f33706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://webproxy?server=webproxy.stream&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 https://t.me/proxy?server=t3.nevcodeframe.com&port=443&secret=ee0e4d933242164450da8a7e6b469b629774332e6e6576636f64656672616d652e636f6d
