@@ -1,3 +1,5 @@
+https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eea562438851e9a2f0631d84ea777c329b7075622e756c7472612d666173742e6363
+tg://webproxy?server=w.ultra-fast.cc&secret=ddeb2176532a2ba0efd4d61127957ee30d
 tg://proxy?server=static.b-telega.shop&port=443&secret=ee9a3f90be73d8392fd072f9860a2699de7374617469632e622d74656c6567612e73686f70
 tg://webproxy?server=pine31.photo-frame.com&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://proxy?server=uwu.mishutkin.click&port=443&secret=eec21a6ac829a6acfe1077910fc3da1c127577752e6d69736875746b696e2e636c69636b
