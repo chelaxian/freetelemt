@@ -1,3 +1,4 @@
+tg://proxy?server=cloud.nocto.cc&port=443&secret=ee4c15861636db167e8a958b371ce499f9636c6f75642e6e6f63746f2e6363
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eec028ed8e8528545cfb06404b56f2c6e57075622e756c7472612d666173742e6363
 tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=static.b-telega.shop&port=443&secret=eec9f4da3fdfbfccdb13cd63d487b4804273746f72652e737465616d706f77657265642e636f6d
