@@ -8,5 +8,4 @@ tg://webproxy?server=cdnvkvideo01.liketg.org&secret=dd65e58cc66c77a3b454dda5546a
 https://t.me/webproxy?server=talya.stream&secret=dd726b6e2068757920736f736974653a29
 tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
 tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
-tg://proxy?server=shared2.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
 https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
