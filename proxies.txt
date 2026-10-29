@@ -1,4 +1,3 @@
-tg://proxy?server=2.26.255.82&port=443&secret=ee3c65583bcfb9d0da1cdba26cda687ddf6d2e6265626f6f2e7275
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee13f5cbda956d421b374d5d7bfa264f617075622e756c7472612d666173742e6363
 tg://proxy?server=tg.tulip.ex1.click&port=8444&secret=3804fc2c995399a125a544caa43cb065
 tg://webproxy?server=stone27.home.kg&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
