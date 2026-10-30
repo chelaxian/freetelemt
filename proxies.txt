@@ -1,3 +1,7 @@
+tg://webproxy?server=pl.vetka.rest&secret=ddb3f46f0b2177647ee3ce2caf85ba7da9
+tg://proxy?server=pl.vetka.rest&port=9443&secret=ddb3f46f0b2177647ee3ce2caf85ba7da9
+tg://webproxy?server=lt.vetka.rest&secret=dd500ff95be69ac70dfac6632abd0f8527
+tg://proxy?server=lt.vetka.rest&port=9443&secret=dd500ff95be69ac70dfac6632abd0f8527
 tg://proxy?server=217.60.62.138&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6d61726b6574696e672e6c6565726f792e757a
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eef8fbe80de2923085ef577d5378e2fc6f7075622e756c7472612d666173742e6363
 tg://webproxy?server=web.marketing.leeroy.uz&secret=dda339ca5cc76d3f7946a1356a63f0947d
