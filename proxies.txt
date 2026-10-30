@@ -1,3 +1,5 @@
+tg://proxy?server=87.58.210.134&port=443&secret=ee7a2476676efcc230447747ef4b09dbc37777772e6d6963726f736f66742e636f6d
+tg://proxy?server=87.58.210.174&port=443&secret=ee6b64826dd14793fc4702c2a87424e23d7777772e6d6963726f736f66742e636f6d
 tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://proxy?server=185.203.6.145&port=443&secret=eee57cb5836886278b2470f208fb2e27616d2e6265626f6f2e7275
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee13f5cbda956d421b374d5d7bfa264f617075622e756c7472612d666173742e6363
