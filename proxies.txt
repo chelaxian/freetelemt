@@ -1,3 +1,4 @@
+tg://proxy?server=193.39.143.57&port=443&secret=ee981fc8f249fdbddeabedbea2c99ada766d2e6265626f6f2e7275
 tg://webproxy?server=pl.vetka.rest&secret=ddb3f46f0b2177647ee3ce2caf85ba7da9
 tg://proxy?server=pl.vetka.rest&port=9443&secret=ddb3f46f0b2177647ee3ce2caf85ba7da9
 tg://webproxy?server=lt.vetka.rest&secret=dd500ff95be69ac70dfac6632abd0f8527
