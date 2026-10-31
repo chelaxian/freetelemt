@@ -1,5 +1,5 @@
+tg://proxy?server=217.144.185.96&port=443&secret=eefab9d841d123c6012e6cf78a9faaa5f16d2e6265626f6f2e7275
 tg://proxy?server=panelscr333.duckdns.org&port=8443&secret=ee15f9863c745095d8f6eee4da1fb6318270616e656c7363723333332e6475636b646e732e6f7267
-tg://webproxy?server=lt.vetka.rest&secret=dd500ff95be69ac70dfac6632abd0f8527
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eef8fbe80de2923085ef577d5378e2fc6f7075622e756c7472612d666173742e6363
 tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
 tg://webproxy?server=stone27.home.kg&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
