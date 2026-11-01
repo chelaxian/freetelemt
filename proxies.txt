@@ -1,3 +1,4 @@
+https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee89645078686f6a83f16442c0c91798437075622e756c7472612d666173742e6363
 tg://webproxy?server=pl1.vetka.rest&secret=dd29f1b13ae871328bb68c23eb3192999b
 tg://webproxy?server=lt1.vetka.rest&secret=dd500ff95be69ac70dfac6632abd0f8527
