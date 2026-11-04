@@ -1,3 +1,5 @@
+tg://proxy?server=fast.proxynet.tech&port=443&secret=7gh4eit_0yINnTVnmqsILKtmYXN0LnByb3h5bmV0LnRlY2g
+tg://proxy?server=xfs5.gbird.top&port=443&secret=7saqiN6JJJ8Fv-ysCb-dD8R4ZnM1LmdiaXJkLnRvcA
 tg://proxy?server=n857f86.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
 tg://proxy?server=77.221.156.157&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275
 https://t.me/webproxy?server=twp-cf-twp.hardikanand.workers.dev&secret=7ab00c4c41bc86649cd27f3d823f398d
