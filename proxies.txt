@@ -1,3 +1,4 @@
+tg://proxy?server=185.203.7.190&port=443&secret=ee3c39d5dc3a798e48fe193f3d3e688aa16d2e6265626f6f2e7275
 tg://proxy?server=w1.travobet.site&port=9443&secret=ee78db693a0d664a63b9f52b095314b270706574726f766963682e7275
 tg://proxy?server=185.125.102.165&port=443&secret=eeb04788e588449aaea9c0024f70659fe06d2e6265626f6f2e7275
 tg://proxy?server=n25a995.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
