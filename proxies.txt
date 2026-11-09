@@ -1,3 +1,4 @@
+https://t.me/webproxy?server=pk.travobet.site&secret=dd08fe6a1d1218c6d607aa160248c76080
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee4ad58b4362bff2f20568ad390d371bde7075622e756c7472612d666173742e6363
 tg://proxy?server=mt4.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
 tg://proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
