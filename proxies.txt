@@ -14,7 +14,6 @@ tg://proxy?server=fast.proxynet.tech&port=443&secret=7gh4eit_0yINnTVnmqsILKtmYXN
 tg://proxy?server=n857f86.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 tg://webproxy?server=stone27.home.kg&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
-tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/webproxy?server=talya.stream&secret=dd726b6e2068757920736f736974653a29
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
