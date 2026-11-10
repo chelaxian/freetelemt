@@ -5,7 +5,6 @@ tg://proxy?server=mt4.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224
 tg://proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
 tg://proxy?server=mt2.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
 tg://proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
-tg://proxy?server=185.203.7.190&port=443&secret=ee3c39d5dc3a798e48fe193f3d3e688aa16d2e6265626f6f2e7275
 tg://proxy?server=n25a995.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
 https://t.me/proxy?server=185.203.7.144&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
 https://t.me/proxy?server=static.b-telega.shop&port=443&secret=eec9f4da3fdfbfccdb13cd63d487b4804273746f72652e737465616d706f77657265642e636f6d
