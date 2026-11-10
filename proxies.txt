@@ -1,3 +1,4 @@
+tg://proxy?server=213.165.42.221&port=443&secret=ee4f7edb53952c5e9e6edb6d8796a5bdfc79612e7275
 tg://proxy?server=f2g9gdj7r.apruxdomain.website&port=443&secret=dda45c9e8c4227df41f721688060d5229e
 tg://proxy?server=213.165.42.142&port=443&secret=ee446460c28b391f31143297df58b0afba6d2e6265626f6f2e7275
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee4ad58b4362bff2f20568ad390d371bde7075622e756c7472612d666173742e6363
