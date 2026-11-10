@@ -1,3 +1,5 @@
+tg://proxy?server=217.144.187.152&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d65626c796174696368746f626c79612e6e6574
+tg://proxy?server=217.144.187.147&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d65626c796174696368746f626c79612e6e6574
 tg://webproxy?server=pine31.photo-frame.com&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee4ad58b4362bff2f20568ad390d371bde7075622e756c7472612d666173742e6363
