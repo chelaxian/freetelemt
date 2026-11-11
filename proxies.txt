@@ -1,3 +1,4 @@
+tg://proxy?server=n25dfae.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eeb169ade6f9f74fc28438d9a4d7627b827075622e756c7472612d666173742e6363
 https://t.me/proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
