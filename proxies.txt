@@ -1,3 +1,4 @@
+tg://proxy?server=yostavpn.casacam.net&port=443&secret=eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574
 tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee06e1fa104262edaf6e277bd75a0f79c7075622e756c7472612d666173742e6363
 tg://proxy?server=tg5.turboass.live&port=31437&secret=ee688b69f9f566d0d5413e71c02f5226df7467352e747572626f6173732e6c697665
