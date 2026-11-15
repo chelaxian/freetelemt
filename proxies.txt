@@ -1,4 +1,3 @@
-tg://proxy?server=netproxystopudovo.duckdns.org&port=443&secret=ee4478741030fe713292d1279e9689676865626c796174696368746f626c79612e6e6574
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee06e1fa104262edaf6e277bd75a0f79c7075622e756c7472612d666173742e6363
