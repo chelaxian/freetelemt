@@ -1,3 +1,4 @@
+tg://webproxy?server=vale86.oops.wtf&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee020e97412a4640a060f203c5ab8dc3d47075622e756c7472612d666173742e6363
 tg://proxy?server=asa.travobet.site&port=9443&secret=7njbaToNZkpjufUrCVMUsnBwZXRyb3ZpY2gucnU
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
