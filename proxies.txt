@@ -1,3 +1,6 @@
+tg://webproxy?server=web.turboproxy.pro&secret=ddd977146916dca029d939e9db580b35ea
+https://t.me/proxy?server=files.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b2966696c65732e747572626f70726f78792e70726f
+https://t.me/proxy?server=dl.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b29646c2e747572626f70726f78792e70726f
 tg://webproxy?server=mimimetr.buruhtan.ru&secret=dd03f4d3ad6accd3eec96756d2a288ffdf
 https://t.me/proxy?server=cdn.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eedbdd3d27e10c3100b9217c3643ea11f57075622e756c7472612d666173742e6363
