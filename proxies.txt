@@ -1,3 +1,4 @@
+tg://proxy?server=11.travobet.site&port=9443&secret=ee78db693a0d664a63b9f52b095314b2706d61782e7275
 tg://webproxy?server=web.turboproxy.pro&secret=ddd977146916dca029d939e9db580b35ea
 https://t.me/proxy?server=files.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b2966696c65732e747572626f70726f78792e70726f
 https://t.me/proxy?server=dl.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b29646c2e747572626f70726f78792e70726f
