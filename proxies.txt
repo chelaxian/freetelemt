@@ -1,3 +1,5 @@
+https://t.me/proxy?server=n5983c5.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
+tg://proxy?server=10.travobet.site&port=9443&secret=ee78db693a0d664a63b9f52b095314b2706d61782e7275
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eeac7bb85ce75d189a12da67a22d6d72747075622e756c7472612d666173742e6363
 tg://webproxy?server=free-reviveme.duckdns.org&secret=dd2e34d68418a93d3d73a07423d78a4657
 tg://proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=ee7747076fca6590cda4eb2cff3b4464ee7777772e676f6f676c652e636f6d
