@@ -1,3 +1,4 @@
+tg://webproxy?server=free-reviveme.duckdns.org&secret=dd2e34d68418a93d3d73a07423d78a4657
 tg://proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=ee7747076fca6590cda4eb2cff3b4464ee7777772e676f6f676c652e636f6d
 tg://webproxy?server=web.turboproxy.pro&secret=ddd977146916dca029d939e9db580b35ea
 https://t.me/proxy?server=files.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b2966696c65732e747572626f70726f78792e70726f
