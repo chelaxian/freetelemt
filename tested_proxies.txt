@@ -1,10 +1,8 @@
+https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eeac7bb85ce75d189a12da67a22d6d72747075622e756c7472612d666173742e6363
+tg://webproxy?server=free-reviveme.duckdns.org&secret=dd2e34d68418a93d3d73a07423d78a4657
 tg://proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=ee7747076fca6590cda4eb2cff3b4464ee7777772e676f6f676c652e636f6d
-tg://webproxy?server=web.turboproxy.pro&secret=ddd977146916dca029d939e9db580b35ea
-https://t.me/proxy?server=files.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b2966696c65732e747572626f70726f78792e70726f
-https://t.me/proxy?server=dl.turboproxy.pro&port=443&secret=ee54343255ab98757f191840569f1a9b29646c2e747572626f70726f78792e70726f
 tg://webproxy?server=mimimetr.buruhtan.ru&secret=dd03f4d3ad6accd3eec96756d2a288ffdf
 https://t.me/proxy?server=cdn.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
-https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eedbdd3d27e10c3100b9217c3643ea11f57075622e756c7472612d666173742e6363
 https://t.me/proxy?server=n8bce97.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
 https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
 tg://webproxy?server=api.surfweb.biz%2F7fbc593daa45&secret=cN3I4-lXJVcEr32VHASsAs-x
