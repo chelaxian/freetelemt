@@ -1,3 +1,4 @@
+https://t.me/proxy?server=n7dd477.lumenpost.top&port=443&secret=ee64d43c980c08b82856137ac74cb331fb6d2e6c756d656e706f73742e746f70
 tg://proxy?server=6.travobet.site&port=9443&secret=ee78db693a0d664a63b9f52b095314b2706d61782e7275
 tg://proxy?server=connect.lero.one&port=443&secret=ee2f25099ee2913cd5796afa4482c0bca46d2e6265626f6f2e7275
 https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee1e4acd94264a065fa769b957d4d6e63d7075622e756c7472612d666173742e6363
